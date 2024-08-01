@@ -28,8 +28,6 @@ dados = {
     "final" : True
 }
 
-# print(dados["vez"](dados["partida"]))
-
 # mostra como está a lista
 def apresenta_hashtag(dado):
     # hashtag em lista com valor 1, 2, 3, 4, 5, 6, 7, 8, 9
